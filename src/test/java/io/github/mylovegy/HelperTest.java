@@ -1,4 +1,4 @@
-package jinxing.liu;
+package io.github.mylovegy;
 
 import org.junit.Assert;
 import org.junit.Test;

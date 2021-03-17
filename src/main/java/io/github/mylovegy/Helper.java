@@ -1,4 +1,4 @@
-package jinxing.liu;
+package io.github.mylovegy;
 
 import java.util.Map;
 
